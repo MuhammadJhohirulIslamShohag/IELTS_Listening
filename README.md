@@ -1,8 +1,7 @@
 # IELTS_Listening
 
-### Cambridge 12 Test 05
 
-# Synonyms for "Take"
+### Cambridge 12 Test 05
 
 | **Action**   | **Synonym**      |
 |--------------|------------------|
