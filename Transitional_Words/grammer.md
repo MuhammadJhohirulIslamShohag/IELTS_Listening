@@ -1,7 +1,5 @@
 # **🔹 Deep Grammar Guide for Using Transitional Words (English & Bangla)**  
 
-To help children understand how to use transitional words correctly, let’s break it down **step by step** with **sentence structures** and **examples**.  
-
 ---
 
 ## **1. Independent and Dependent Clauses (স্বাধীন এবং অধীন ক্লজ)**  
@@ -152,12 +150,3 @@ Before learning transitional words, it's important to understand **independent**
 - **Examples:**  
   ✅ "Many fruits are healthy. **For example,** apples contain fiber."  
   ✅ "Some animals, **for instance,** tigers, are endangered."  
-
----
-
-### **✅ Final Tip for Children:**  
-1. **Look at the meaning first** → Does the word show contrast, cause & effect, addition, etc.?  
-2. **Follow the correct grammar rule** → Use commas (,) when needed.  
-3. **Practice making simple sentences** → Use pictures or real-life situations.  
-
-This deep guide should help children **understand, learn, and use** transitional words in their writing! 🚀
