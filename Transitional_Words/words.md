@@ -26,6 +26,20 @@
 | **Probably not**   | সম্ভবত না      | "It will **probably not** rain today." |
 | **Unlikely**       | সম্ভাবনা কম    | "It’s **unlikely** that he’ll be on time." |
 | **Doubtful**       | সন্দেহজনক      | "It’s **doubtful** whether they’ll win the match." |
+|--------------------|-------------------------|----------------------------------|----------------------------------|
+|--------------------|-------------------------|----------------------------------|----------------------------------|
+|--------------------|-------------------------|----------------------------------|----------------------------------|
+| **However**        | যাহা হউক       | "The hotel was quite expensive. **However**, the service was excellent." |
+| **Although**       | যদিও           | "**Although** the weather was bad, we still went hiking." |
+| **But**            | কিন্তু         | "I wanted to go to the concert, **but** the tickets were sold out." |
+| **Not at all**      | একদম না                | "It’s **doubtful** whether they’ll win the match." | "এটি **সন্দেহজনক** যে তারা ম্যাচটি জিতবে।" |
+| **Might**           | হতে পারে                | "It’s **doubtful** whether they’ll win the match." | "এটি **সন্দেহজনক** যে তারা ম্যাচটি জিতবে।" |
+| **May be**          | হতে পারে                | "It’s **doubtful** whether they’ll win the match." | "এটি **সন্দেহজনক** যে তারা ম্যাচটি জিতবে।" |
+| **Yah-but**         | হ্যাঁ-কিন্তু              | "It’s **doubtful** whether they’ll win the match." | "এটি **সন্দেহজনক** যে তারা ম্যাচটি জিতবে।" |
+| **Oh-huh**          | আচ্ছা                    | "It’s **doubtful** whether they’ll win the match." | "এটি **সন্দেহজনক** যে তারা ম্যাচটি জিতবে।" |
+| **No**              | না                      | "It’s **doubtful** whether they’ll win the match." | "এটি **সন্দেহজনক** যে তারা ম্যাচটি জিতবে।" |
+| **Yes but**         | হ্যাঁ-কিন্তু              | "It’s **doubtful** whether they’ll win the match." | "এটি **সন্দেহজনক** যে তারা ম্যাচটি জিতবে।" |
+
 
 
 ### Most Common Transitional Words in IELTS Listening  
@@ -58,4 +72,22 @@
 |                  | Then                 | তারপর              | "We visited the museum. **Then**, we had lunch." |
 |                  | Next                 | পরবর্তী            | "**Next**, we will look at the benefits of this policy." |
 |                  | Finally              | অবশেষে            | "**Finally**, I would like to thank everyone for coming." |
+
+
+### Positive Transitional Words with Examples  
+| **Action**          | **Meaning (Bengali)** | **Example Sentence in English** | **Example Sentence in Bengali** |
+|---------------------|----------------------|----------------------------------|----------------------------------|
+| **Yes**            | হ্যাঁ                 | "Do you like ice cream?" **"Yes, I do."** | "তুমি কি আইসক্রিম পছন্দ কর?" **"হ্যাঁ, আমি করি।"** |
+| **Right**          | ঠিক আছে / সত্যি       | "**Right,** let's start the meeting." | "**ঠিক আছে**, চলো মিটিং শুরু করি।" |
+| **That's right**   | সেটাই ঠিক              | "**That's right**, he is the manager." | "**সেটাই ঠিক**, তিনি ম্যানেজার।" |
+| **All right**      | ঠিক আছে               | "**All right**, I’ll help you with this task." | "**ঠিক আছে**, আমি তোমাকে এই কাজে সাহায্য করব।" |
+| **Exactly**        | একদম ঠিক              | "**Exactly!** That’s what I meant." | "**একদম ঠিক!** আমি সেটাই বলতে চেয়েছিলাম।" |
+| **I see**          | বুঝেছি                 | "**I see**, you mean the blue car?" | "**বুঝেছি**, তুমি কি নীল গাড়ির কথা বলছো?" |
+| **That sounds sensible** | তা যথার্থ | "**That sounds sensible**, let’s follow the plan." | "**তা যথার্থ**, চল পরিকল্পনা অনুযায়ী এগোই।" |
+| **Good**           | ভালো                  | "**Good**, you did a great job!" | "**ভালো**, তুমি দারুণ কাজ করেছ!" |
+| **Absolutely**     | একেবারে / সম্পূর্ণরূপে | "**Absolutely**, I agree with you." | "**একেবারে**, আমি তোমার সঙ্গে একমত।" |
+| **Ok**            | ঠিক আছে / আচ্ছা       | "**Ok**, let’s go now." | "**ঠিক আছে**, এখন চলো।" |
+| **Sure**          | অবশ্যই                | "**Sure**, I will help you." | "**অবশ্যই**, আমি তোমাকে সাহায্য করব।" |
+| **That sounds fine** | ভালো মনে হচ্ছে       | "**That sounds fine**, let’s do it." | "**ভালো মনে হচ্ছে**, চলো এটা করি।" |
+| **Hmm**           | উহুম / হুম             | "**Hmm**, I need to think about it." | "**হুম**, আমাকে এটা নিয়ে ভাবতে হবে।" |
 
