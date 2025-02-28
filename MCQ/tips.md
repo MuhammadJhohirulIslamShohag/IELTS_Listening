@@ -9,3 +9,4 @@
 ### Vocabulary ---> Speaker would not say exactly option word, but they say same meaning word
 ### Please skip this kind of option if speaker does not say about this, work with elimination this kind of options which speaker talk about this
 ### Responsible speaker answer will be answer like question into name (Responsible name)
+### Transition words will be make correct and wrong answer( if i speaker tell the something, someone if say positive transition word, answer will be right, if say negative transition word, it will be wrong)
